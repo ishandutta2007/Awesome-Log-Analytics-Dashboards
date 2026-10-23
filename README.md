@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Log-Analytics-Dashboards/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Log-Analytics-Dashboards?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Log-Analytics-Dashboards/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Log-Analytics-Dashboards?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Log-Analytics-Dashboards/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Log-Analytics-Dashboards?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Log-Analytics-Dashboards/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Log-Analytics-Dashboards" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,77 +66,77 @@ The global log management and analytics market is estimated at **$3.3B–$4.3B**
 
 
 
-- **[Grafana](https://github.com/grafana/grafana)** [![GitHub Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
+- **[Grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
   **The universal dashboard platform.** ~77.5k stars. Connects to virtually any data source—Loki, Elasticsearch, Prometheus, ClickHouse, Postgres—and renders unified dashboards. Best for teams that want one visualization layer across logs, metrics, and traces regardless of backend.
 
 
 
-- **[Apache Superset](https://github.com/apache/superset)** [![GitHub Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
+- **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
   **Modern enterprise business intelligence and data exploration platform.** ~75.3k stars. Connects to SQL-speaking databases and data warehouses (ClickHouse, Trino, Postgres, DuckDB) storing log analytics and metrics. Best for teams wanting rich log analytics and analytical dashboards alongside enterprise BI visualizations in one unified system.
 
 
 
-- **[SigNoz](https://github.com/SigNoz/signoz)** [![GitHub Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white)](https://github.com/SigNoz/signoz/stargazers)  
+- **[SigNoz](https://github.com/SigNoz/signoz)** [![GitHub_Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white)](https://github.com/SigNoz/signoz/stargazers)  
   **The OpenTelemetry-native observability platform.** ~32.4k stars. Combines logs, metrics, and traces in a unified UI with ClickHouse storage and built-in dashboards. Best for teams standardized on OpenTelemetry that want a single backend and visualization layer for all telemetry signals.
 
 
 
-- **[Grafana Loki](https://github.com/grafana/loki)** [![GitHub Stars](https://img.shields.io/github/stars/grafana/loki?style=social&color=white)](https://github.com/grafana/loki/stargazers)  
+- **[Grafana Loki](https://github.com/grafana/loki)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/loki?style=social&color=white)](https://github.com/grafana/loki/stargazers)  
   **Horizontally scalable, highly available, multi-tenant log aggregation system.** ~29.0k stars. Inspired by Prometheus, it indexes only metadata labels rather than full text, making it extremely cost-efficient when paired directly with Grafana dashboards for log exploration.
 
 
 
-- **[Vector](https://github.com/vectordotdev/vector)** [![GitHub Stars](https://img.shields.io/github/stars/vectordotdev/vector?style=social&color=white)](https://github.com/vectordotdev/vector/stargazers)  
+- **[Vector](https://github.com/vectordotdev/vector)** [![GitHub_Stars](https://img.shields.io/github/stars/vectordotdev/vector?style=social&color=white)](https://github.com/vectordotdev/vector/stargazers)  
   **High-performance observability data pipeline.** ~22.8k stars. Built in Rust to ingest, transform, enrich, and route huge volumes of log data and metrics into visualizer backends like Elasticsearch, Grafana Loki, ClickHouse, or cloud destinations with sub-millisecond latency.
 
 
 
-- **[OpenObserve](https://github.com/openobserve/openobserve)** [![GitHub Stars](https://img.shields.io/github/stars/openobserve/openobserve?style=social&color=white)](https://github.com/openobserve/openobserve/stargazers)  
+- **[OpenObserve](https://github.com/openobserve/openobserve)** [![GitHub_Stars](https://img.shields.io/github/stars/openobserve/openobserve?style=social&color=white)](https://github.com/openobserve/openobserve/stargazers)  
   **The full observability platform with built-in dashboards.** ~22.5k stars. AGPL-3.0 licensed. Covers logs, metrics, traces, LLM observability, and synthetics with SQL/visual query builders and built-in dashboard panels storing data on object storage (S3/MinIO). Best for teams wanting an all-in-one platform without assembling Kibana + Grafana + separate backends.
 
 
 
-- **[Kibana](https://github.com/elastic/kibana)** [![GitHub Stars](https://img.shields.io/github/stars/elastic/kibana?style=social&color=white)](https://github.com/elastic/kibana/stargazers)  
+- **[Kibana](https://github.com/elastic/kibana)** [![GitHub_Stars](https://img.shields.io/github/stars/elastic/kibana?style=social&color=white)](https://github.com/elastic/kibana/stargazers)  
   **The Elastic Stack visualization standard.** ~21.3k stars. Your window into Elasticsearch—search, dashboards, visualizations, and Canvas for pixel-perfect reports. Tightly coupled to Elasticsearch as the data backend. Best for teams already using Elasticsearch who want the most mature log exploration UI with Lens for drag-and-drop visualization.
 
 
 
-- **[VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)** [![GitHub Stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics?style=social&color=white)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers)  
+- **[VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)** [![GitHub_Stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics?style=social&color=white)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers)  
   **High-performance time series database and VictoriaLogs UI.** ~17.9k stars. Includes VictoriaLogs for high-throughput, cost-efficient log management with low RAM consumption and integrated Web UI log exploration, compatible with Grafana dashboards.
 
 
 
-- **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** [![GitHub Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)  
+- **[OpenSearch](https://github.com/opensearch-project/OpenSearch)** [![GitHub_Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch?style=social&color=white)](https://github.com/opensearch-project/OpenSearch/stargazers)  
   **Community-driven, open-source search and analytics suite.** ~13.9k stars. Apache 2.0 licensed distributed search and analytics engine derived from Elasticsearch, serving as the core storage and query engine for log analytics at scale.
 
 
 
-- **[Fluentd](https://github.com/fluent/fluentd)** [![GitHub Stars](https://img.shields.io/github/stars/fluent/fluentd?style=social&color=white)](https://github.com/fluent/fluentd/stargazers)  
+- **[Fluentd](https://github.com/fluent/fluentd)** [![GitHub_Stars](https://img.shields.io/github/stars/fluent/fluentd?style=social&color=white)](https://github.com/fluent/fluentd/stargazers)  
   **Unified logging layer and CNCF graduated project.** ~13.6k stars. Decouples data sources from backend storage and visualization layers with a rich ecosystem of 1,000+ plugins for log filtering, routing, and structuring.
 
 
 
-- **[Quickwit](https://github.com/quickwit-oss/quickwit)** [![GitHub Stars](https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social&color=white)](https://github.com/quickwit-oss/quickwit/stargazers)  
+- **[Quickwit](https://github.com/quickwit-oss/quickwit)** [![GitHub_Stars](https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social&color=white)](https://github.com/quickwit-oss/quickwit/stargazers)  
   **The object-storage-native search engine.** ~11.7k stars. Sub-second full-text search on 100TB+ datasets with dramatic TCO reduction vs Elasticsearch. Includes a built-in UI for log exploration and native Jaeger/Grafana integrations. Best for teams prioritizing search performance and cost efficiency on object storage.
 
 
 
-- **[HyperDX](https://github.com/hyperdxio/hyperdx)** [![GitHub Stars](https://img.shields.io/github/stars/hyperdxio/hyperdx?style=social&color=white)](https://github.com/hyperdxio/hyperdx/stargazers)  
+- **[HyperDX](https://github.com/hyperdxio/hyperdx)** [![GitHub_Stars](https://img.shields.io/github/stars/hyperdxio/hyperdx?style=social&color=white)](https://github.com/hyperdxio/hyperdx/stargazers)  
   **Developer-friendly observability platform.** ~10.0k stars. Open-source alternative to Datadog that unifies logs, metrics, traces, and session replays with ClickHouse storage and intuitive dashboards designed specifically to speed up debugging.
 
 
 
-- **[Fluent Bit](https://github.com/fluent/fluent-bit)** [![GitHub Stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers)  
+- **[Fluent Bit](https://github.com/fluent/fluent-bit)** [![GitHub_Stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers)  
   **Fast, lightweight log processor and forwarder.** ~8.2k stars. Highly efficient C-based log and metrics collector designed for Kubernetes, embedded systems, and containerized architectures, seamlessly forwarding to Kibana, OpenSearch, and Grafana Loki.
 
 
 
-- **[Graylog](https://github.com/Graylog2/graylog2-server)** [![GitHub Stars](https://img.shields.io/github/stars/Graylog2/graylog2-server?style=social&color=white)](https://github.com/Graylog2/graylog2-server/stargazers)  
+- **[Graylog](https://github.com/Graylog2/graylog2-server)** [![GitHub_Stars](https://img.shields.io/github/stars/Graylog2/graylog2-server?style=social&color=white)](https://github.com/Graylog2/graylog2-server/stargazers)  
   **The mature enterprise log management platform.** ~8.2k stars. **License note**: Graylog Open is distributed under **SSPL** (Server Side Public License)—not OSI-approved open-source; more accurately described as open-core or source-available. Integrated search, dashboards, alerting, and stream processing with security correlation and asset intelligence.
 
 
 
-- **[OpenSearch Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards)** [![GitHub Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch-Dashboards?style=social&color=white)](https://github.com/opensearch-project/OpenSearch-Dashboards/stargazers)  
+- **[OpenSearch Dashboards](https://github.com/opensearch-project/OpenSearch-Dashboards)** [![GitHub_Stars](https://img.shields.io/github/stars/opensearch-project/OpenSearch-Dashboards?style=social&color=white)](https://github.com/opensearch-project/OpenSearch-Dashboards/stargazers)  
   **Open-source visualization and dashboard UI for OpenSearch.** ~2.1k stars. The Apache 2.0 fork of Kibana, providing interactive data visual analytics, Discover log explorer, alerting management, and multi-tenant dashboards without licensing constraints.
 
 

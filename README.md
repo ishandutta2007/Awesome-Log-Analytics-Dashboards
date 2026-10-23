@@ -1,52 +1,49 @@
-# Awesome-Log-Analytics-Dashboards
+# 📊 Awesome Log Analytics & Dashboards [![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 
-# Awesome-Log-Analytics-Dashboards
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Log Analytics & Dashboards Banner" width="100%" />
+</p>
 
-## Top Log Analytics & Dashboards Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Log-Analytics-Dashboards/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Log-Analytics-Dashboards?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Log-Analytics-Dashboards/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Log-Analytics-Dashboards?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Log-Analytics-Dashboards/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Log-Analytics-Dashboards" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-
+## 🚀 Top Log Analytics & Dashboards Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Log Exploration, Visualization & Self-Hosted Analytics Platforms*  
-
+*Focused on Log Exploration, Real-Time Telemetry Visualization, SIEM, & Self-Hosted Analytics Platforms*  
 **Last updated: October 2026**
 
+---
 
+This curated repository tracks notable **SaaS observability platforms** and **open-source log analytics projects**. These tools transform raw log streams, telemetry events, and system traces into searchable, actionable visual insights—empowering DevOps, SREs, SecOps, and platform engineering teams to investigate incidents, conduct root-cause analysis, and build real-time monitoring dashboards before outages impact users.
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Log Analytics & Dashboards**. These tools transform raw log data into searchable, visual insight—enabling teams to investigate incidents, monitor system health, and build dashboards that surface anomalies before they become outages.
+- **Enterprise & SaaS Category Leaders:** Splunk, Datadog, Elastic Cloud, Sumo Logic, Coralogix, Mezmo, Humio, Better Stack, and Graylog Cloud.
+- **Open-Source & Self-Hosted Highlights:** Anchored by universal visualization standards and cloud-native backends including **Grafana**, **Apache Superset**, **SigNoz**, **Grafana Loki**, **Vector**, **OpenObserve**, and **Kibana**.
 
+---
+## 📑 Table of Contents
 
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
+- [⭐ Star History](#-star-history)
+- [📜 Disclaimer](#-disclaimer)
 
-**Examples** include Splunk, Datadog, Sumo Logic, Elastic Cloud, Loggly, Coralogix, Mezmo, Humio, Better Stack, and Kibana (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, avoiding per-GB ingestion fees, and controlling the visualization layer. The open-source landscape is anchored by **Kibana** (the Elastic Stack visualization standard), **Grafana** (the universal dashboard platform), **OpenObserve** (the full observability platform with built-in dashboards), and **Graylog** (the mature log management platform with integrated dashboards), with **SigNoz** and **Quickwit** serving OpenTelemetry-native and object-storage-native needs respectively.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
+## 📈 Sector Overview & Market Dynamics
 
 The global log management and analytics market is estimated at **$3.3B–$4.3B** and projected to surpass **$10B+ by the early 2030s** (11–13% CAGR). The sector is **moderately fragmented with low-to-moderate concentration** rather than winner-take-all: while enterprise SIEM and observability incumbents (Datadog, Splunk, Elastic) capture sizable enterprise spend, the pain of punitive ingestion pricing and sheer telemetry volume growth fuel healthy, continuous adoption of cost-effective alternatives and self-hosted open-source stacks.
 
 
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 
 
@@ -65,7 +62,7 @@ The global log management and analytics market is estimated at **$3.3B–$4.3B**
 
 
 
-## Open-Source GitHub Projects
+## 🛠️ Open-Source GitHub Projects
 
 
 
@@ -144,46 +141,46 @@ The global log management and analytics market is estimated at **$3.3B–$4.3B**
 
 
 
-## How to Contribute
+## 🤝 How to Contribute
 
+1. 🍴 Fork the repository.
+2. 📝 Add or edit entries in `README.md` (following the existing table or list format).
+3. 🔍 Include: name, link, 1–2 sentence description, transparent pricing / limits, and whether it's SaaS or open-source.
+4. 🚀 Submit a PR with a concise, helpful explanation.
 
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- **Pricing scales dramatically with volume**: Splunk at 200 GB/day can cost $120,000–$200,000 annually; Graylog Cloud at the same volume is $5,000–$6,500/month. Model your actual ingest before committing.
-
-- **Free tiers are for evaluation, not production**: Splunk Free lacks alerting; Datadog Free excludes logs; Sumo Logic and Elastic offer trials only. Verify limits before relying on free plans.
-
-- **Graylog Open is SSPL-licensed**: not OSI-approved open-source. The free tier covers basic log aggregation and alerts; SIEM features (search filtering, log archiving, anomaly detection, compliance reports) are in the paid Graylog Security tier .
-
-- **Company size data varies in reliability**: Public company revenues (Datadog, Elastic) are from official filings. Private company figures (Coralogix, Sumo Logic) are from funding databases and may lag. Loggly and Mezmo revenue is not publicly disclosed—they are parts of larger parent companies or have limited funding disclosures .
-
-- **Open-source visualizers still require infrastructure**: Kibana, Grafana, and OpenObserve all need servers, storage, and maintenance—free software is not free operations.
-
-
+Star ⭐ the repo if you find this curated collection useful!
 
 ---
 
+## 💖 Support & Community
 
+Thank you so much for exploring this curated repository! If this log analytics & dashboards guide has helped you or your engineering team choose the right observability stack, please consider supporting the project:
 
-**Made for SREs, platform engineers, and developers building observability dashboards.**  
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and contribute** updates or new log tools to keep the ecosystem fresh.
+- 📢 **Share it** with fellow SREs, DevOps engineers, and cloud architects.
+- ☕ **Buy a coffee & sponsor**: Support continuous maintenance and open-source research via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
-Let's make log analytics more open, visual, and appropriately scoped.
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Log-Analytics-Dashboards&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Log-Analytics-Dashboards&type=date&legend=top-left)
+
+---
+
+## 📜 Disclaimer
+
+- 📌 This is a **community-curated** list — not exhaustive and not an official vendor endorsement.
+- 💸 **Pricing scales dramatically with volume**: Splunk at 200 GB/day can cost $120,000–$200,000 annually; Graylog Cloud at the same volume is $5,000–$6,500/month. Always model your actual ingest volumes before committing.
+- ⏳ **Free tiers are for evaluation, not production**: Splunk Free lacks alerting; Datadog Free excludes logs; Sumo Logic and Elastic offer trials only. Verify limits before relying on free plans.
+- ⚖️ **Graylog Open is SSPL-licensed**: Distributed under Server Side Public License (SSPL)—source-available / open-core rather than OSI-approved open source. The free tier covers basic log aggregation and alerts; SIEM capabilities are in the paid Graylog Security tier.
+- 🏢 **Company size data varies in reliability**: Public company revenues (Datadog, Elastic) are derived from official filings. Private company figures (Coralogix, Sumo Logic) reflect public funding announcements. Loggly and Mezmo revenues are not standalone disclosed.
+- 🖥️ **Open-source visualizers still require infrastructure**: Kibana, Grafana, SigNoz, and OpenObserve all require server compute, storage disks, and engineering maintenance—free software does not mean zero operational expense.
+
+---
+
+<p align="center">
+  <b>Made with ❤️ for SREs, platform engineers, and developers building observability dashboards.</b><br>
+  <i>Let's make log analytics more open, visual, and appropriately scoped.</i>
+</p>
